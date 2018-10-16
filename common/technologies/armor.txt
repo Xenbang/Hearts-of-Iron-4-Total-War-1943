@@ -547,6 +547,15 @@ technologies = {
 			light_tank_equipment_1944
 		}	
 		
+		
+		
+		path = {
+			leads_to_tech = light_tank_1944
+			research_cost_coeff = 1
+		}
+		
+		
+		
 		research_cost = 1.5
 		start_year = 1944
 		
@@ -619,7 +628,7 @@ technologies = {
 		
 		
 	
-		research_cost = 1.0
+		research_cost = 1.2
 		start_year = 1944
 		
 		ai_will_do = {
