@@ -27,7 +27,7 @@ units = {
 
 instant_effect = {
 	add_equipment_to_stockpile = {
-		type = light_tank_equipment_1936
+		type = panzer_ii_equipment_3
 		amount = 150
 		producer = GER
 	}
